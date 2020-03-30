@@ -14,7 +14,8 @@
 
 - **Start time:** 
 - **Finish time:** 
-- **Actual time needed to complete:**   
+- **Actual time needed to complete:** not complete yet 
+
 
 ///////////////////////////////////////////////
 - **Number and name of feature:** 3. Style the application
