@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Kavoon&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script&display=swap');
+
+body{
+    background-color: cornsilk;
+    width: 100%;
+}
+header{
+    text-align: center;
+    font-family: 'Kavoon', cursive;
+    font-size: xx-large;
+    margin-top: 20px;
+    color: rgb(175, 115, 115);
+    
+}
+p{
+    
+    visibility: hidden;
+}
+div{
+    padding-top: 10px;
+    margin-top: 70px;
+  display: inline-block; 
+    border: 2px solid rgb(122, 88, 88);
+    width:200px;
+    height: 200px;
+    margin-left: 15px;
+    color: rgb(148, 128, 128);
+    font-family: 'Nanum Pen Script', cursive;
+    text-align: center;
+    background-color: burlywood;
+    font-size: 30px;
+    
+}
+
+img{
+ width: 100px;
+ text-align: justify;
+ background: none;
+ border: 2px solid rgb(122, 88, 88);
+ margin-top: 20px;
+ border-radius: 30px;
+
+ 
+}
+footer{
+    
+    text-align: center; 
+}
