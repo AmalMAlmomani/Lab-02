@@ -49,7 +49,7 @@ $(document).ready(function () {
   });
 
   $('.select').change(function(){
-    var key = $(this).children('option:selected').val();
+    let key = $(this).children('option:selected').val();
     KeywordArray.forEach(function(val){
       if(key === val){
         $('div').hide();
