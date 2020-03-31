@@ -1,13 +1,23 @@
-#photo-template{
-    display: none;
+section{
+    display: hidden;
 }
 
-#select{
-    background-color: rgb(90, 83, 82);
-    padding: 10px 5px;
+
+div:first-child{
+    display: none;
+}
+.select{
     border: none;
-    margin-top: 25px;
-    color: rgb(235, 182, 140);
+    margin-top: 50px;
+    padding: 10px;
+    font-size: x-large;
     font-family: 'Nanum Pen Script', cursive;
-    font-size: 20px;
+    background-color: rgb(90, 83, 82);
+    color: cornsilk;
+    text-align: center;
+
+
+   
+    
+    
 }

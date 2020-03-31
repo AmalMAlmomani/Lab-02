@@ -1,7 +1,7 @@
 # Lab-02
 
 - **Number and name of feature:** 1. Display images
-- **Estimate of time needed to complete:**  2 hour
+- **Estimate of time needed to complete:**  1 hour
 
 - **Start time:** 3 p.m.
 - **Finish time:** 5 p.m.
@@ -10,11 +10,11 @@
 ////////////////////////////////////////
 
 - **Number and name of feature:** 2. Filter images
-- **Estimate of time needed to complete:** 
+- **Estimate of time needed to complete:** around 3 hours
 
-- **Start time:** 
-- **Finish time:** 
-- **Actual time needed to complete:** not complete yet 
+- **Start time:** 5 p.m.
+- **Finish time:** 7 p.m.
+- **Actual time needed to complete:** 3 hours 
 
 
 ///////////////////////////////////////////////
